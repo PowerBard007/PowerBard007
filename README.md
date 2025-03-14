@@ -14,5 +14,9 @@ By day, I wrestle with code. By night, I gaze at the cosmos, contemplating life,
 > **"Major Crimes" - HEALTH**  
 > My go-to song for deep focus, debugging, and contemplating cosmic mysteries.  
 
-[![Major Crimes - HEALTH](https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg)]
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=U6PSsSM1swQ">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg" alt="Major Crimes - HEALTH" width="100" height="100">
+  </a>
+</p>  
 🔗 [Listen on YouTube](https://www.youtube.com/watch?v=U6PSsSM1swQ)

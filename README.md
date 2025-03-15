@@ -14,12 +14,11 @@ By day, I wrestle with code. By night, I gaze at the cosmos, contemplating life,
 > My go-to song for deep focus, debugging, and contemplating cosmic mysteries.  
 
 <p align="left">
-  <a href="https://www.youtube.com/watch?v=U6PSsSM1swQ">
+  <a href="https://www.youtube.com/watch?v=U6PSsSM1swQ" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg" alt="Major Crimes - HEALTH" width="140" height="164.5">
   </a>
 </p>
-
-🔗[YouTube Link](https://www.youtube.com/watch?v=U6PSsSM1swQ)
+)
 
 
 # 💻 Tech Stack:

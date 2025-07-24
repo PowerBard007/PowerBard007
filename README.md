@@ -1,7 +1,7 @@
 # 🌌 Hey there, I'm Aakansh K Anil! 🚀
 
 ### 👨‍💻 Junior | CSE @ NIT Calicut  
-### 🌠 Astronomy & Astrophysics Enthusiast | Wannabe Rocket Scientist  
+### 🌠 Astronomy , DSA & Cryptography Enthusiast | Wannabe Rocket Scientist  
 ### ᯓ✈︎ Junior Executive at Club Aerounwired
 
 ---
